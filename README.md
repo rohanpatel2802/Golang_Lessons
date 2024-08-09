@@ -1,1 +1,1 @@
-This is repository for learning go lang
+This is a repository for learning go lang
