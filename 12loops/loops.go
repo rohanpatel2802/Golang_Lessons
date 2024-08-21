@@ -23,8 +23,8 @@ func main() {
 	// fmt.Println(day[i])
 	// }
 
-	// for index, value := range day {
-	// 	fmt.Println("Index is", index, " and value is", value)
-	// }
+	for index, value := range day {
+		fmt.Println("Index is", index, " and value is", value)
+	}
 
 }
